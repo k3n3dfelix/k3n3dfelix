@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   <div style="display: inline_block">
     
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- 
+  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 </div>
   
   ##
